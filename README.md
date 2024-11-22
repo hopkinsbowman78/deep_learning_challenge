@@ -29,4 +29,4 @@ Using TensorFlow, I designed a neural network, or deep learning model, to create
   - Name of applicants appears more than 5 tmes type of applications following T3 T4 T5 T6 T7 T8 T10 T19 application of following classification ...
  
 ## Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
-- RandomForest model
+- An alternate method to solve this problem would to use the Random Forest model. This algorithm could break down the dataset into smaller, simplier decision trees for further optimization.
